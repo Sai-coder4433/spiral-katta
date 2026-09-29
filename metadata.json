@@ -1,0 +1,6 @@
+{
+  "name": "Spiral Katta - Cafe in Chakan",
+  "description": "Spiral Katta is a warm, modern cafe at Ambethan Chowk, Chakan. Good Food. Good Coffee. Good Katta. Open daily 10:00 AM to 10:30 PM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
