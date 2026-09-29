@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/db071e0c-03b1-409f-9f35-76ec9
 3. Run the app:
    `npm run dev`
 # spiral-katta
+# spiral-katta
